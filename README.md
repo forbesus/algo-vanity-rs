@@ -1,0 +1,1 @@
+Algorand Wallet Address Generator
